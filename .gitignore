@@ -1,0 +1,24 @@
+# 编译产物
+build/
+Debug/
+Release/
+*.o
+*.d
+*.su
+*.elf
+*.hex
+*.bin
+*.map
+*.list
+*.cyclo
+*.a
+
+# CubeMX 缓存
+.mxproject
+
+# 编辑器 / 系统
+.vscode/
+Thumbs.db
+Desktop.ini
+*.bak
+*.tmp
